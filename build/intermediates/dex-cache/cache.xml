@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\JEEVIKA\.gradle\caches\modules-2\files-2.1\com.github.tony19\logback-android-core\1.1.1-3\aea03aa7edb044688e6f15b94b987d9960133dae\logback-android-core-1.1.1-3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="aea03aa7edb044688e6f15b94b987d9960133dae">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\logback-android-core-1.1.1-3-8b47e3356c89019110f6f30d56ebfb4e492ddc1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\libs\NineOldAndroid-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\NineOldAndroid-2.4.0-2c9d955a08d068e882d8b569fb9a28ed617465de.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-79e22a13c91f70fd638940093a63bb5fa4cb1576.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\libs\activation.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\activation-97cd50b9c8c414335d5e793cde2afd52846e12f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\libs\additionnal.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\additionnal-4f30d9bd632ae701d834f90cd73f82ee52d4898a.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.github.shell-software\uitools\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="418307d960be5f7c5fe13794b7283f5fd09d0c17">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-a13742527739454abe1ed86917968ce37668e06b.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEEVIKA\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.9\872ec63b41181e29ad5a3723f1417356e2d2c0f2\slf4j-api-1.7.9.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="872ec63b41181e29ad5a3723f1417356e2d2c0f2">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\slf4j-api-1.7.9-cfbdb3693143baf2e4bf0d7711242a85d9ee1dcb.jar" />
+    </item>
+    <item
+        jar="E:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-09fb9bc9b14ac04d8ed52b6df16f442c20402b4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\libs\mysql-connector-java-5.1.6-bin.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="380ef5226de2c85ff3b38cbfefeea881c5fce09d">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\mysql-connector-java-5.1.6-bin-c8589c0ff00d3423ea3b1dfdf774b56d1b825e2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-97f714e8ab05c56c42ea3ba5f70581da0221a628.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEEVIKA\.gradle\caches\modules-2\files-2.1\com.github.tony19\apktool-lib\1.4.4-3\1d0125bf578cb30dd192496db56c2d937495248a\apktool-lib-1.4.4-3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1d0125bf578cb30dd192496db56c2d937495248a">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\apktool-lib-1.4.4-3-3875e2f562d2875ca5b54d7136f083241c1e64c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\libs\AndroidViewAnimations-1.1.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d8db345547f7a025130d1622f2608ec68e761641">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\AndroidViewAnimations-1.1.3-e15021caa5be6a7f772d971eac7da6807e6f0dbc.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\libs\mail.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\mail-895fe1df1579cad3f8f784e028ca83f4ca6ef327.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEEVIKA\.gradle\caches\modules-2\files-2.1\com.github.tony19\logback-android-classic\1.1.1-3\f36abbae255635de1ff54ea0ea1452aca4ee921e\logback-android-classic-1.1.1-3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f36abbae255635de1ff54ea0ea1452aca4ee921e">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\logback-android-classic-1.1.1-3-432c8ce91af009fc25e5937990c1c9e79002c6a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.github.shell-software\viewmover\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3d6dc28c575755c91be7f6a69803e4ebe98c7c7d">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-cad9fc6245145f82104b24bd71db624410160e8b.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-8b38a23b5eb25ff5e590c7ec298afd379bab3c1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.github.shell-software\fab\1.1.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="48bbecbdd3ed42e9df1b94a945480838e3bb208b">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-5f02c27215fe3c5657000da6d74dd8f3791b8e53.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\design\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-4c49cb3871522cad930cf4339e56f05540247c26.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-e21039b31ac38d055a5ac4d5108d6df09c2f0b35.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\classes-5b1e60903bb24a453486622aa90bdf5ad8b4a23c.jar" />
+    </item>
+    <item
+        jar="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\libs\AndroidEasingFunctions-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ae609e93bcbe4988aa371ab615b7abb43e9399bf">
+        <dex dex="C:\Users\JEEVIKA\Downloads\MaterialDesign\MaterialDesign\app\build\intermediates\pre-dexed\debug\AndroidEasingFunctions-1.0.0-07d263dc2d1a272e2b733350ff014b4a794b6ff0.jar" />
+    </item>
+
+</items>
